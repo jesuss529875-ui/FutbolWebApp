@@ -1,0 +1,19 @@
+# DataFlex Binarios y Archivos Temporales
+/Bin/
+/Programs/
+*.n
+*.vdf
+*.log
+*.cache
+*.user
+*.local
+
+# Copias de seguridad y temporales del IDE 
+*~
+*.bak
+*.old
+
+# Entorno de Windows / OS 
+Thumbs.db
+Desktop.ini
+.DS_Store
